@@ -1,0 +1,1 @@
+console.log("I'm build with webpack!orz");
