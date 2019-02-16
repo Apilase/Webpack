@@ -13,7 +13,7 @@
       "dev": "webpack --mode development",
       "build": "webpack --mode production"
     }
-    
+
 3.更改默认入口、输出
     "scripts": {
       "dev": "webpack --mode development ./project/src/js/index.js --output ./project/main.js",
